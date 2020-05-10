@@ -6,7 +6,7 @@ import random
 answer_file = '/home/vistajin/Desktop/test-aws-saa-with-answer.txt'
 # the file you test
 # test_file = '/home/vistajin/Desktop/wrong-answered-001.txt'
-test_file = '/home/vistajin/Desktop/test-003.txt'
+test_file = '/home/vistajin/Desktop/test-004.txt'
 # test_file = '/home/vistajin/Desktop/test-001.txt'
 
 
